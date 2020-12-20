@@ -12,7 +12,7 @@ body {
   line-height: 1.5em;
   padding: 1em;
   margin: auto;
-  max-width: 42em;
+  max-width: 82em;
   background: #fefefe;
 }
 
@@ -134,7 +134,7 @@ samp {
   color: #000;
   font-family: monospace, monospace;
   _font-family: 'courier new', monospace;
-  font-size: 0.98em;
+  font-size: 0.84em;
 }
 
 pre {
